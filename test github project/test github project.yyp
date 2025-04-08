@@ -30,16 +30,12 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.8.1.171",
+    "IDEVersion":"2024.11.0.179",
   },
   "name":"test github project",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-<<<<<<< HEAD
-    {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
-=======
     {"id":{"name":"spr_test","path":"sprites/spr_test/spr_test.yy",},},
->>>>>>> dcd0e20f85a74a537f152aa683993a2ecec0ab7f
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
